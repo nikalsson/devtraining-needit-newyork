@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="DELETE">
+        <breakdown display_value="NeedIt Request type">abea4906db7a4010a278dde74896193c</breakdown>
+        <display>true</display>
+        <indicator display_value="NeedIt: Active Weekly">3969c582db7a4010a278dde74896194d</indicator>
+        <order/>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-07 14:26:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7fea4906db7a4010a278dde748961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Request type.NeedIt: Active Weekly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_7fea4906db7a4010a278dde748961942</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-07 14:26:21</sys_updated_on>
+    </pa_indicator_breakdowns>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>62cbbd34db13d7001ddcf22ebf96197b</instance_id>
+        <instance_name>dev64363</instance_name>
+        <name>pa_indicator_breakdowns_7fea4906db7a4010a278dde748961942</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns"><pa_indicator_breakdowns action="INSERT_OR_UPDATE"><breakdown display_value="NeedIt Request type">abea4906db7a4010a278dde74896193c</breakdown><display>true</display><indicator display_value="NeedIt: Active Weekly">3969c582db7a4010a278dde74896194d</indicator><order/><sql_statement/><sys_class_name>pa_indicator_breakdowns</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-07 14:26:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7fea4906db7a4010a278dde748961942</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Request type.NeedIt: Active Weekly</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_indicator_breakdowns_7fea4906db7a4010a278dde748961942</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-07 14:26:21</sys_updated_on></pa_indicator_breakdowns></record_update>]]></payload>
+        <payload_hash>1246410813</payload_hash>
+        <record_name>3969c582db7a4010a278dde74896194d</record_name>
+        <reverted_from/>
+        <source>a3c44d86db3a4010a278dde748961947</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-07 14:26:21</sys_created_on>
+        <sys_id>bfea4906db7a4010a278dde74896194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170200b62100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-07 14:26:21</sys_updated_on>
+        <type>Indicator Breakdown</type>
+        <update_guid>f7ea4906e57a40106ca18a1ffe5de64f</update_guid>
+        <update_guid_history>f7ea4906e57a40106ca18a1ffe5de64f:1246410813</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt: Active Weekly">caab8546db7a4010a278dde7489619cd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-07 14:29:31</sys_created_on>
+        <sys_db_object display_value="" name="pa_indicator_breakdowns">pa_indicator_breakdowns</sys_db_object>
+        <sys_id>0576bcd3e11a427a8a9649ca83900a51</sys_id>
+        <sys_metadata>7fea4906db7a4010a278dde748961942</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Request type.NeedIt: Active Weekly</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt: Active Weekly">3969c582db7a4010a278dde74896194d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_indicator_breakdowns_7fea4906db7a4010a278dde748961942</sys_update_name>
+        <sys_update_version display_value="pa_indicator_breakdowns_7fea4906db7a4010a278dde748961942">bfea4906db7a4010a278dde74896194f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-07 14:29:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
